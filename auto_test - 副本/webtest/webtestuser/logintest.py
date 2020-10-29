@@ -2,7 +2,7 @@ import time
 import unittest
 from HTMLTestRunner import HTMLTestRunner
 import sys
-sys.path.append('C:\\Users\\l\\PycharmProjects\\untitled1')
+sys.path.append('C:\\.jenkins\\workspace\\CrmProject')
 
 from auto_test.base.browseroperation import Browseroperation
 from auto_test.base.usebrowser import UseBrowser
