@@ -1,0 +1,22 @@
+LoginPage:
+  username: //*[@name="userNum"]
+  password: //*[@name="userPw"]
+  submit_button: //*[@id="in1"]
+SelectCustomer:
+  topframe: topFrame
+  click_button: /html/body/form/table/tbody/tr[2]/td/table/tbody/tr/td[2]/table/tbody/tr/td[5]/table/tbody/tr/td/div/a
+CreateCustomer:
+  mainframe: mainFrame
+  add_button: /html/body/form/table/tbody/tr[1]/td/table/tbody/tr/td[2]/table/tbody/tr/td[4]/input
+  customer_name: //*[@name="customerName"]
+  customer_email: //*[@name="customerEmail"]
+  close_readonly: document.getElementById('customerBirthday').readOnly=false
+  customer_birthday: //*[@id="customerBirthday"]
+  create_manager: //*[@name="customerAddMan"]
+  sure_button: //*[@name="submit"]
+UpdateCustomer:
+  mainframe: mainFrame
+  update_button: /html/body/form/table/tbody/tr[2]/td/table/tbody/tr/td[2]/table/tbody/tr[2]/td[13]/div/span/a[1]
+  customerjob: //*[@name="customerJob"]
+  submit_button: //*[@name="submit"]
+
