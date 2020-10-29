@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bfc41ad1-92fc-4a40-8a30-2356f6f255de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webtest/webtestuser/logintest.py" beforeDir="false" afterPath="$PROJECT_DIR$/webtest/webtestuser/logintest.py" afterDir="false" />
-    </list>
+    <list default="true" id="bfc41ad1-92fc-4a40-8a30-2356f6f255de" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +14,7 @@
         <entry file="file://$PROJECT_DIR$/webtest/webtestuser/logintest.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="171">
-              <caret line="9" column="61" lean-forward="true" selection-start-line="9" selection-start-column="61" selection-end-line="9" selection-end-column="61" />
+              <caret line="9" column="61" selection-start-line="9" selection-start-column="61" selection-end-line="9" selection-end-column="61" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -94,23 +91,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="auto_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="auto_test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="auto_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="auto_test" type="462c0819:PsiDirectoryNode" />
-              <item name="webtest" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -270,7 +252,7 @@
     <entry file="file://$PROJECT_DIR$/webtest/webtestuser/logintest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
-          <caret line="9" column="61" lean-forward="true" selection-start-line="9" selection-start-column="61" selection-end-line="9" selection-end-column="61" />
+          <caret line="9" column="61" selection-start-line="9" selection-start-column="61" selection-end-line="9" selection-end-column="61" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
